@@ -5,7 +5,7 @@ import BookingForm from './components/BookingForm';
 import AvailableSeats from './components/AvailableSeats';
 import './App.css';
 
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://trainseatbookingsystem.onrender.com/api';
 
 interface Seat {
   _id: string;
